@@ -1,0 +1,17 @@
+{
+    "name":"texture",
+    "data":[
+            {"path":"images/star_b1.png", "key":"BD1"},
+            {"path":"images/star_b2.png", "key":"BD2"},
+            {"path":"images/star_b3.png", "key":"BD3"},
+            {"path":"images/star_b4.png", "key":"BD4"},
+            {"path":"images/star_b5.png", "key":"BD5"},
+            {"path":"images/star_b6.png", "key":"BD6"},
+            {"path":"images/star_b7.png", "key":"BD7"},
+            {"path":"images/star_moon.png", "key":"Moon"},
+            {"path":"images/star_round_2x.png", "key":"RoundStar"},
+            {"path":"images/star_solid.png", "key":"SolidStar"},
+            {"path":"images/star_square.png", "key":"SquareStar"},
+            {"path":"images/streak.png", "key":"Streak"}
+    ]
+}

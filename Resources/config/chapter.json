@@ -1,0 +1,75 @@
+{
+    "name":"chapter",
+    "data":[
+        {
+            "chapter":1,
+            "text":21,
+            "name":"瑶光",
+            "light":0.42,
+            "coord":[6,61],
+            "magnitude":1.8,
+            "condition_text":31,
+            "condition":[60,10,0]
+        },
+        {
+            "chapter":2,
+            "text":22,
+            "name":"开阳",
+            "light":0.64,
+            "coord":[116, 123],
+            "magnitude":2.4,
+            "condition_text":32,
+            "condition":[180,25,10]
+        },
+        {
+            "chapter":3,
+            "text":23,
+            "name":"玉衡",
+            "light":0.56,
+            "coord":[202, 103],
+            "magnitude":2.4,
+            "condition_text":33,
+            "condition":[300,50,20]
+        },
+        {
+            "chapter":4,
+            "text":24,
+            "name":"天权",
+            "light":0.50,
+            "coord":[292, 81],
+            "magnitude":3.3,
+            "condition_text":34,
+            "condition":[480,100,30]
+        },
+        {
+            "chapter":5,
+            "text":25,
+            "name":"天玑",
+            "light":0.24,
+            "coord":[358, 10],
+            "magnitude":1.8,
+            "condition_text":35,
+            "condition":[600,200,35]
+        },
+        {
+            "chapter":6,
+            "text":26,
+            "name":"天璇",
+            "light":0.48,
+            "coord":[508, 71],
+            "magnitude":2.1,
+            "condition_text":36,
+            "condition":[720,500,40]
+        },
+        {
+            "chapter":7,
+            "text":27,
+            "name":"天枢",
+            "light":0.72,
+            "coord":[484,18],
+            "magnitude":1.9,
+            "condition_text":37,
+            "condition":[900,1000,50]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name":"config",
+    "data":{
+        "showFPS":false,
+        "debugdraw":false,
+        "gravity_y":-20.0,
+        "updaterate":180
+    }
+}
