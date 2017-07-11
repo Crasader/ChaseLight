@@ -1,0 +1,16 @@
+此目录下存放与平台相关的文件
+
+可能包括：
+
+1. SDK
+
+2. 多点触摸
+
+3. AppleStore, Google Play 相关服务
+
+4. iOS、Android 用户区分
+
+
+
+
+
